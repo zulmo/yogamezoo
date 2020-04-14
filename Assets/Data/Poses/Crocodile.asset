@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e21839317c534ea43986bf57929d6e1d, type: 3}
+  m_Name: Crocodile
+  m_EditorClassIdentifier: 
+  AnimalCaged: {fileID: 21300000, guid: 573c1a6d937bd3a4d8eeb78b1b92ba15, type: 3}
+  AnimalFree: {fileID: 21300000, guid: ac00f6ba452ba5f40b8c5e50d6b017a1, type: 3}
+  PlayerCard: {fileID: 21300000, guid: fec2b9c5ad2d23a4d8ba042e14d62696, type: 3}
+  LeaderCard: {fileID: 21300000, guid: 57ad8e85b216d87428827909eae9e6a9, type: 3}
+  Detail: {fileID: 21300000, guid: 22a9583fc6b83324a928aa204b3ec6eb, type: 3}
+  Name: Crocodile
+  Timer: 10

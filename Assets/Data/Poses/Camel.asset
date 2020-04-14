@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e21839317c534ea43986bf57929d6e1d, type: 3}
+  m_Name: Camel
+  m_EditorClassIdentifier: 
+  AnimalCaged: {fileID: 21300000, guid: 153c70e4078bfab44a1cd2bb9acce560, type: 3}
+  AnimalFree: {fileID: 21300000, guid: a9dae0f74d6b2a74fac6cac86ff3d21d, type: 3}
+  PlayerCard: {fileID: 21300000, guid: 2bc025291436625448d9df4dd50f41b3, type: 3}
+  LeaderCard: {fileID: 21300000, guid: aac18b1d52bcdc04d9c9547fb4841ba4, type: 3}
+  Detail: {fileID: 21300000, guid: c62a94b5fab5beb49b21b0caa9c31de7, type: 3}
+  Name: Camel
+  Timer: 10

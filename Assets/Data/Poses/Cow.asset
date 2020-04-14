@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e21839317c534ea43986bf57929d6e1d, type: 3}
+  m_Name: Cow
+  m_EditorClassIdentifier: 
+  AnimalCaged: {fileID: 21300000, guid: ac843727ae070004a87df36ca8758fdf, type: 3}
+  AnimalFree: {fileID: 21300000, guid: f7f5a5ad2c87b8b41a1130455bf21b93, type: 3}
+  PlayerCard: {fileID: 21300000, guid: ce885edc5f606ef4381e222ddb0a9068, type: 3}
+  LeaderCard: {fileID: 21300000, guid: 5f85cc052f3d2da47856c56e301b3347, type: 3}
+  Detail: {fileID: 21300000, guid: bd8a98dcf0c8aa24cafada3600384bb8, type: 3}
+  Name: Cow
+  Timer: 10

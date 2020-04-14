@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e21839317c534ea43986bf57929d6e1d, type: 3}
+  m_Name: Dove
+  m_EditorClassIdentifier: 
+  AnimalCaged: {fileID: 21300000, guid: 00c9de3609c7c944a870aa215be2e271, type: 3}
+  AnimalFree: {fileID: 21300000, guid: 15def4a079168de4d86f9ae71526dd20, type: 3}
+  PlayerCard: {fileID: 21300000, guid: 54d83bd051837964a944b9b554be6b50, type: 3}
+  LeaderCard: {fileID: 21300000, guid: ba50f105ad52487458892595be2a17b3, type: 3}
+  Detail: {fileID: 21300000, guid: ffd6d6d7ad9b8cc4ea3d7b1869549609, type: 3}
+  Name: Dove
+  Timer: 10

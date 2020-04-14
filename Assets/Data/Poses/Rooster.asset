@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e21839317c534ea43986bf57929d6e1d, type: 3}
+  m_Name: Rooster
+  m_EditorClassIdentifier: 
+  AnimalCaged: {fileID: 21300000, guid: 331157b9f5efda545b59761fed10f28f, type: 3}
+  AnimalFree: {fileID: 21300000, guid: 7c82b874e29c0c04180fc0ccd261a5e2, type: 3}
+  PlayerCard: {fileID: 21300000, guid: 895349f796e3bf04e8096b0edbbfe4e3, type: 3}
+  LeaderCard: {fileID: 21300000, guid: 66f7ac53b1483f147b3d3a244935679a, type: 3}
+  Detail: {fileID: 21300000, guid: 9d1f2a8127391b24a9c4c0c29ed13287, type: 3}
+  Name: Rooster
+  Timer: 10

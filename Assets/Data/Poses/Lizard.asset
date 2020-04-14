@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e21839317c534ea43986bf57929d6e1d, type: 3}
+  m_Name: Lizard
+  m_EditorClassIdentifier: 
+  AnimalCaged: {fileID: 21300000, guid: e26aff4d03321b244a15eacaf71791be, type: 3}
+  AnimalFree: {fileID: 21300000, guid: f2f4552af7b2c494c8770b8e115f6e3a, type: 3}
+  PlayerCard: {fileID: 21300000, guid: c7e1f48375e3f5c41846a96b9869c4cd, type: 3}
+  LeaderCard: {fileID: 21300000, guid: 2d468e19c74dbbc4280a3a491953ed75, type: 3}
+  Detail: {fileID: 21300000, guid: 7a0d8fd99d7512548ae67c803d3ab1d4, type: 3}
+  Name: Lizard
+  Timer: 10
